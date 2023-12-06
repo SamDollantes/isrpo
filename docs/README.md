@@ -123,3 +123,38 @@
 - perimeter('3, 4, 5')
 - output-> '12'
 
+# История изменения проекта с хешами комитов
+Author: SamDollantes <kostya_dubodei@mail.ru>
+Date:   Wed Dec 6 05:26:55 2023 +0300
+
+    Documentation
+
+commit 424f7556f835c15566014f4e44dc22ae6d272639
+Author: SamDollantes <kostya_dubodei@mail.ru>
+Date:   Wed Dec 6 05:10:02 2023 +0300
+
+    Add circle.py comments
+
+commit 75a46613d5669a6a96bb2919ae2324182a96d1a1
+Author: SamDollantes <kostya_dubodei@mail.ru>
+Date:   Wed Dec 6 04:53:03 2023 +0300
+
+    Added comments to the file
+
+commit ea32a9dc44b664fee44bc5e6e095309b4cf8d69b
+Author: SamDollantes <kostya_dubodei@mail.ru>
+Date:   Wed Dec 6 04:48:11 2023 +0300
+
+    Added comments to the file
+
+commit 74257da9154877fad2819ded6ae8346edbf173aa
+Author: SamDollantes <kostya_dubodei@mail.ru>
+Date:   Wed Dec 6 04:44:54 2023 +0300
+
+    Added comments to the file
+
+commit 4460ab00fc54195b8e5bd94ba577c75e9e9c6799
+Author: SamDollantes <kostya_dubodei@mail.ru>
+Date:   Wed Dec 6 04:37:23 2023 +0300
+
+    Added comments to the file
