@@ -21,6 +21,6 @@ def perimeter(a,b,c):
 		Возвращаемое значение:
 			Периметр треугольника
 		Пример вызова:
-			print(perimeter(2,3,5))
+			print(perimeter(3,4,5))
 		'''
 	return a + b + c
