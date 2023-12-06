@@ -23,3 +23,11 @@ def perimeter(a,b):
 		print(perimeter(2,4))
 	'''
 	return 2*(a + b)
+
+print('area(0,0) Ожидаемый результат: 0 Результат:', area(0,0))
+print('area(2,3) Ожидаемый результат: 6 Результат:', area(2,3))
+print('area(40,30) Ожидаемый результат: 1200 Результат:', area(40,30))
+
+print('perimeter(0,0) Ожидаемый результат: 0 Результат: ', perimeter(0,0))
+print('perimeter(2,3) Ожидаемый результат: 10 Результат:', perimeter(2,3))
+print('perimeter(40,30) Ожидаемый результат: 140 Результат:', perimeter(40,30))
