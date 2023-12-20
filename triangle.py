@@ -8,7 +8,7 @@ def area(a,h):
 		Площадь треугольника
 	Пример вызова:
 		print(area(2,4))
-	'''
+	''''
 	return a * h / 2
 
 def perimeter(a,b,c):
